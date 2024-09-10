@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iseukata.github.io/sitemap.html.gz
+Sitemap: https://iseukata.github.io/app/sitemap.html.gz
+Sitemap: https://iseukata.github.io/assets/sitemap.html.gz
+Sitemap: https://iseukata.github.io/css/sitemap.html.gz
+Sitemap: https://iseukata.github.io/includes/sitemap.html.gz
+Sitemap: https://iseukata.github.io/item/sitemap.html.gz
+Sitemap: https://iseukata.github.io/src/sitemap.html.gz
